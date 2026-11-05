@@ -1,0 +1,8 @@
+{
+  "name": "Korb & Zettel - Einkaufsliste für Aldi, Rewe & dm",
+  "description": "Smarte Einkaufslisten mit aktuellen Prospekten, Angeboten & Preisen für Aldi, Rewe und dm. Listen nach Läden aufteilen und direkt im Markt abhaken.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "appId": "de.buylist.app",
+  "appName": "BuyList",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
